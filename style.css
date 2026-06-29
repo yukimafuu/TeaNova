@@ -438,3 +438,8 @@ footer {
 .h2footer{
  padding-left: 40px;
 }
+
+nav ul li a:hover {
+    color: lightgreen;
+    transition: 0.3s;
+}
